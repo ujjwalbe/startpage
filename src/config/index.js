@@ -34,8 +34,8 @@ var config = {
           url: "https://github.com"
         },
         {
-          name: "bitbucket",
-          url: "https://bitbucket.com"
+          name: "atlassian",
+          url: "https://start.atlassian.com/"
         },
         {
           name: "gmail",
@@ -98,19 +98,19 @@ var config = {
       ]
     },
     {
-      title: 'other',
+      title: 'education',
       content: [
         {
-          name: "homebridge",
-          url: "http://10.0.0.182:8581/login"
+          name: "skills for all",
+          url: "https://skillsforall.com/dashboard"
         },
         {
-          name: "pi-hole",
-          url: "http://10.0.0.182/admin/index.php"
+          name: "leetcode",
+          url: "https://leetcode.com/"
         },
         {
-          name: "maps",
-          url: "https://www.google.com/maps/"
+          name: "udemy",
+          url: "https://www.udemy.com/home/my-courses/learning/"
         },
       ]
     },
